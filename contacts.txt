@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Zarif",
+        "email": "zarif@gmail.com",
+        "phone": "01886999350",
+        "address": "Uttara, Dhaka"
+    },
+    {
+        "name": "Khalid",
+        "email": "khalid@gmail.com",
+        "phone": "01886999354",
+        "address": "Taltola, Dhaka"
+    },
+    {
+        "name": "Arif",
+        "email": "arifulupsi@gmail.com",
+        "phone": "01630846511",
+        "address": "Badda, Dhaka"
+    }
+]
